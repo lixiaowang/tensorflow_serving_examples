@@ -8,5 +8,7 @@
             <artifactId>tensorflow-client</artifactId>
             <version>1.4-2</version>
         </dependency>
-        
+
+参考链接：http://blog.csdn.net/shin627077/article/details/78592729
+
 2、解压mnist(.gz)文件会导致文件名不匹配，需要纠正，mnist_data_test文件夹应与src文件夹平行。
